@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Tugas Model Deployment 😁')
 
-st.write('Hello world!')
+st.write('Deploy Streamlit')
